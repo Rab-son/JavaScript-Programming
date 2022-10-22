@@ -36,4 +36,13 @@ console.log(greeting, person);
 7. == Equal To
 8. != Not Equal To
 */
+// Logic Operators
+/*
+1. && (AND) Checks for both conditions to be true                   
+2. || (OR)   Checks for atleast one condition to be true
+3. ! (NOT) Returns false if the result is true
+
+*/
+
+
 
